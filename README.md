@@ -29,11 +29,11 @@
 
 ### Sheets Perhitungan IP VLSM
 <a name="vlsm-ip"></a>
-<img src="img/VLSM-IP.png">
+<img src="img/VLSM_IP.png">
 
 ### Tree VLSM
 <a name="vlsm-tree"></a>
-<img src="img/VLSM-tree.png">
+<img src="img/VLSM_tree.png">
 
 ### Config dan Routing pada Cisco Packet Tracer
 <a name="vlsm-ping"></a>
