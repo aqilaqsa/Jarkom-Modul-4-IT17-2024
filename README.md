@@ -22,23 +22,29 @@ Menggunakan perhitungan ``CIDR`` dengan menggunakan ``GNS3`` dan ``VLSM`` dengan
 - [Config dan Routing](#cidr-ping)
 
 ## VLSM
-### Topologi VLSM di Cisco Packet Tracer beserta subnet naming
 <a name="vlsm-topologi"></a>
+
+### Topologi VLSM di Cisco Packet Tracer beserta subnet naming
 <img src="img/topo_CPT.png">
 <img src="img/topo_kiri.png">
 <img src="img/topo_bawah.png">
 <img src="img/topo_kanan.png">
 
-### Sheets Perhitungan IP VLSM
 <a name="vlsm-ip"></a>
+
+### Sheets Perhitungan IP VLSM
 <img src="img/VLSM_IP.png">
 
-### Tree VLSM
+
 <a name="vlsm-tree"></a>
+
+### Tree VLSM
 <img src="img/VLSM_tree.png">
 
-### Config dan Routing pada Cisco Packet Tracer
 <a name="vlsm-ping"></a>
+
+
+### Config dan Routing pada Cisco Packet Tracer
 
 #### Router
 <img src="img/r-aceh.png">
@@ -124,18 +130,24 @@ Menggunakan perhitungan ``CIDR`` dengan menggunakan ``GNS3`` dan ``VLSM`` dengan
 <img src="img/K.png">
 <img src="img/K1.png">
 
-### Tree
 <a name="cidr-tree"></a>
+
+
+### Tree
 Setelah dilakukannya ``penggabungan IP``, sekarang kita melakukan pembagian IP dengan menggunakan ``tree`` pada masing-masing kelompok yang telah dibuat sebelumnya sebagai berikut
 <img src="img/tree.png">
 
-### Pembagian IP
 <a name="cidr-ip"></a>
+
+
+### Pembagian IP
 Berikut merupakan hasil dari pembagian IP berdasarkan Tree yang telah dibuat sebelumnya 
 <img src="img/ip.png">
 
-### Konfigurasi network 
 <a name="cidr-ping"></a>
+
+
+### Konfigurasi network 
 
 #### Jawa
 ```
