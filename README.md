@@ -4,9 +4,9 @@
 
 ### Author
 | Nama | NRP |
-|---------|---------|
-| Mutiara Nurhaliza | 5027221010   |
-| Aqila Aqsa | 5027211032   |
+|---------|---------|---------|
+| Mutiara Nurhaliza | 5027221010   | CIDR   |
+| Aqila Aqsa | 5027211032   | VLSM   |
 
 # Laporan Resmi
 
