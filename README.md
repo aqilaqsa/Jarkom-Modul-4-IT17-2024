@@ -3,7 +3,7 @@
 ##### Praktikum Jaringan Komputer Modul 4 Tahun 2024 -Subnetting dan Routing
 
 ### Author
-| Nama | NRP |
+| Nama | NRP | Pembagian Tugas |
 |---------|---------|---------|
 | Mutiara Nurhaliza | 5027221010   | CIDR   |
 | Aqila Aqsa | 5027211032   | VLSM   |
